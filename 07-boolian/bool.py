@@ -1,3 +1,3 @@
 age = 18
-age > 20
+age > 25
 print(age)
