@@ -1,5 +1,5 @@
-nomre = {"raizi : 20", "programming : 20"}
-print(nomre)
+# nomre = {"raizi : 20", "programming : 20"}
+# print(nomre)
 
 
 
@@ -21,9 +21,9 @@ print(final.keys())
 
 
 
-miveh = {"apple" : 20, "benanah" : 50, "orange" : 6000}
-print(miveh.items())
+# miveh = {"apple" : 20, "benanah" : 50, "orange" : 6000}
+# print(miveh.items())
 
-price = {"apple" : 4000, "benana" : 6000, "khiar" : 2000}
-print(price["apple"])
+# price = {"apple" : 4000, "benana" : 6000, "khiar" : 2000}
+# print(price["apple"])
 
