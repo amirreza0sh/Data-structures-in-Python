@@ -10,7 +10,7 @@
 
 # نابرابر → !=
 
-x = 125
+x = 130
 def new_func():
     y = 120
     return y
